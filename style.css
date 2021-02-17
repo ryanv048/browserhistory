@@ -3,7 +3,7 @@ h1, h2{
 }
 
 body{
-  font-family: Open+Sans, sans-serif;
+  font-family: Open Sans, sans-serif;
   color: DarkBlue;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -15,4 +15,33 @@ body{
 img{
   float: left;
   margin-right: 10px;
+}
+
+#list ul{
+  list-style: none;
+}
+#list li{
+  display:inline;
+  padding-left:75px;
+
+}
+
+.IE{
+  position: relative;
+  margin-left: 1px;
+  margin-right: 800px;
+
+}
+.firefox{
+  position: relative;
+  margin-top: -57%;
+  margin-left: 400px;
+  margin-right: 425px;
+
+}
+.chrome{
+  position: relative;
+  margin-left: 785px;
+  margin-right: 45px;
+  margin-top: -45.5%;
 }
