@@ -1,47 +1,7 @@
-h1, h2{
-  font-family: 'Oswald', sans-serif;
-}
-
 body{
-  font-family: 'Open Sans', sans-serif;
-  color: DarkBlue;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-left: 50px;
-  margin-right: 50px;
-  background-color: Ivory;
+  margin-top: 50px;
 }
 
-img{
-  float: left;
-  margin-right: 10px;
-}
-
-#list ul{
-  list-style: none;
-}
-#list li{
-  display:inline;
-  padding-left:75px;
-
-}
-
-.IE{
-  position: relative;
-  margin-left: 1px;
-  margin-right: 800px;
-
-}
-.firefox{
-  position: relative;
-  margin-top: -57%;
-  margin-left: 400px;
-  margin-right: 425px;
-
-}
-.chrome{
-  position: relative;
-  margin-left: 785px;
-  margin-right: 45px;
-  margin-top: -45.5%;
+h1{
+  color: #2770BF;
 }
